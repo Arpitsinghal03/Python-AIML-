@@ -10,6 +10,7 @@ data = {
     'Exam_Score': [35, 40, 45, 50, 55, 60, 65, 70, 75, 80]
 }
 
+
 df = pd.DataFrame(data)
 
 # Splitting dataset into training and testing data
